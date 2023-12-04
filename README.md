@@ -1,17 +1,15 @@
-### ¡Hola a todos! Mi nombre es Rodrigo 👋
+### ¡Hello everyone! My name is Rodrigo 👋 I am an Android Developer. 
 
-## Soy desarrollador de Software 
+### Languages and Tools I use:
 
-### Lenguajes y Herramientas que utilizo:
-
-__Generales:__ 
+__General:__ 
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <br />
 
 ---
-__Desarrollo Móvil:__
+__Mobile Development:__
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
 <br />
