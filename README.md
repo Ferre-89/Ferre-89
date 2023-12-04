@@ -27,7 +27,7 @@ __Social Networks__
 <br />
 [Facebook]: https://www.facebook.com/rodrigo.ferreira.79677/
 <br />
-[linkedin]: https://www.https://www.linkedin.com/in/rodrigoferreira1989/
+[linkedin]: www.linkedin.com/in/rodrigoferreira1989/
 <br />
 
 
