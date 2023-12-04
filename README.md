@@ -23,12 +23,11 @@ __Most used language is Java; my statistics show specificity with some Kotlin te
 ---
 __Social Networks__
 <br />
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-: https://www.instagram.com/rodri.ferreira.89/
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />: https://www.instagram.com/rodri.ferreira.89/
 <br />
-[Facebook]: https://www.facebook.com/rodrigo.ferreira.79677/
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />]: https://www.facebook.com/rodrigo.ferreira.79677/
 <br />
-[linkedin]: www.linkedin.com/in/rodrigoferreira1989/
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />]: www.linkedin.com/in/rodrigoferreira1989/
 <br />
 
 
