@@ -24,7 +24,9 @@ __Most used language is Java; my statistics show specificity with some Kotlin te
 __Social Networks__
 <br />
 [instagram]: https://www.instagram.com/rodri.ferreira.89/
+<br />
 [Facebook]: https://www.facebook.com/rodrigo.ferreira.79677/
+<br />
 [linkedin]: https://www.https://www.linkedin.com/in/rodrigoferreira1989/
 <br />
 
