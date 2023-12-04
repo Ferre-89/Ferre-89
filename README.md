@@ -14,7 +14,7 @@ __Mobile Development:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
 <br />
 
-
+_Most used language is Java; my statistics show specificity with some Kotlin test projects._
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferre-89&show_icons=true&theme=tokyonight)
 
 
