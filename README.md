@@ -21,9 +21,9 @@ __Most used language is Java; my statistics show specificity with some Kotlin te
 <br />
 
 ---
-__Social Networks__
+__Contact me!__
 <br />
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />]
+<img align="left" alt="Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
 <br />
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />]: https://www.facebook.com/rodrigo.ferreira.79677/
 <br />
