@@ -22,9 +22,9 @@ __Most used language is Java; my statistics show specificity with some Kotlin te
 
 ---
 __Contact me!__
-<br /><img align="left" alt="Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" /> https://www.instagram.com/rodri.ferreira.89/
-<br /><img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />: https://www.facebook.com/rodrigo.ferreira.79677/
-<br /><img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />: www.linkedin.com/in/rodrigoferreira1989/
+<br /><img align="left" alt="Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />https://www.instagram.com/rodri.ferreira.89/
+<br /><img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />https://www.facebook.com/rodrigo.ferreira.79677/
+<br /><img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />www.linkedin.com/in/rodrigoferreira1989/
 <br />
 
 [miPerfil] https://github.com/Ferre-89
