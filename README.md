@@ -23,7 +23,7 @@ __Most used language is Java; my statistics show specificity with some Kotlin te
 ---
 __Social Networks__
 <br />
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />]: https://www.instagram.com/rodri.ferreira.89/
+[<img align="left" alt="Instagram" width="22px" src="[https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png](https://github.com/wle8300/instagram-logo/blob/master/logo.svg)" />]: https://www.instagram.com/rodri.ferreira.89/
 <br />
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />]: https://www.facebook.com/rodrigo.ferreira.79677/
 <br />
