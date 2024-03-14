@@ -6,7 +6,7 @@ __General:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://proandroiddev.com/following-the-way-of-migration-to-jetpack-compose-63216df6a5b3" width="30" height="30" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="30" height="30" />
 <br />
 
 ---
