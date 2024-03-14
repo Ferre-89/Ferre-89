@@ -6,14 +6,14 @@ __General:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="30" height="30" />
+<img align="left" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="30" height="30" />
 <br />
 
 ---
 __Mobile Development:__
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
-<img align="left" src="https://commons.wikimedia.org/wiki/File:Kotlin_Icon.svg" width="30" height="30" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.sv" width="30" height="30" />
 <br />
 
 ---
