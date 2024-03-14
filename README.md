@@ -13,6 +13,7 @@ __General:__
 __Mobile Development:__
 <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
+<img align="left" src="https://commons.wikimedia.org/wiki/File:Kotlin_Icon.svg" width="30" height="30" />
 <br />
 
 ---
