@@ -9,6 +9,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Desarrollo Móvil:**
 
@@ -38,16 +39,17 @@ App de gestión de recordatorios con alarmas, notificaciones, estadísticas, wid
 
 Donaciones vía SMS a Animales Sin Hogar (ASH Uruguay).
 
-**En desarrollo:**
+<a href="https://play.google.com/store/apps/details?id=com.roferreiradev.digaloconmimica">
+  <img src="https://img.shields.io/badge/Dígalo_con_Mímica-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Dígalo con Mímica en Play Store"/>
+</a>
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **Dígalo con Mímica** | Juego de charadas con películas. Modos cooperativo y equipos | Kotlin, Jetpack Compose |
+Juego de charadas con películas. Modos cooperativo y equipos. Kotlin + Jetpack Compose.
 
 ---
 
 ### 📫 Contacto
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoFerreiraDev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodri.ferreira.89/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.ferreira.79677/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoferreira1989/)
